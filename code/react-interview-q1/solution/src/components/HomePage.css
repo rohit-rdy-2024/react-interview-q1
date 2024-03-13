@@ -1,0 +1,7 @@
+.invalid-feedback{
+    color:red;
+}
+.actionButtons{
+    display: flex;
+    justify-content: center;
+}
